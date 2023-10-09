@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\bin\Debug\net6.0\C#SharoExample.exe
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\bin\Debug\net6.0\C#SharoExample.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\bin\Debug\net6.0\C#SharoExample.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\bin\Debug\net6.0\C#SharoExample.dll
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\bin\Debug\net6.0\C#SharoExample.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\obj\Debug\net6.0\C#SharoExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\obj\Debug\net6.0\C#SharoExample.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\obj\Debug\net6.0\C#SharoExample.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\obj\Debug\net6.0\C#SharoExample.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\obj\Debug\net6.0\C#SharoExample.dll
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\obj\Debug\net6.0\refint\C#SharoExample.dll
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\obj\Debug\net6.0\C#SharoExample.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\obj\Debug\net6.0\C#SharoExample.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\C#SharoExample\C#SharoExample\obj\Debug\net6.0\ref\C#SharoExample.dll

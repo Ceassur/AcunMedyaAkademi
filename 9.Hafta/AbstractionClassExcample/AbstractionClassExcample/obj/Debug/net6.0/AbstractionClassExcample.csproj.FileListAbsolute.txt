@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\bin\Debug\net6.0\AbstractionClassExcample.exe
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\bin\Debug\net6.0\AbstractionClassExcample.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\bin\Debug\net6.0\AbstractionClassExcample.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\bin\Debug\net6.0\AbstractionClassExcample.dll
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\bin\Debug\net6.0\AbstractionClassExcample.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\obj\Debug\net6.0\AbstractionClassExcample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\obj\Debug\net6.0\AbstractionClassExcample.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\obj\Debug\net6.0\AbstractionClassExcample.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\obj\Debug\net6.0\AbstractionClassExcample.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\obj\Debug\net6.0\AbstractionClassExcample.dll
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\obj\Debug\net6.0\refint\AbstractionClassExcample.dll
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\obj\Debug\net6.0\AbstractionClassExcample.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\obj\Debug\net6.0\AbstractionClassExcample.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\AbstractionClassExcample\AbstractionClassExcample\obj\Debug\net6.0\ref\AbstractionClassExcample.dll
