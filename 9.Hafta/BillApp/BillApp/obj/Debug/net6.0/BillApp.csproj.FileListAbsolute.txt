@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\obj\Debug\net6.0\BillApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\obj\Debug\net6.0\BillApp.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\obj\Debug\net6.0\BillApp.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\obj\Debug\net6.0\BillApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\bin\Debug\net6.0\BillApp.exe
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\bin\Debug\net6.0\BillApp.deps.json
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\bin\Debug\net6.0\BillApp.runtimeconfig.json
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\bin\Debug\net6.0\BillApp.dll
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\bin\Debug\net6.0\BillApp.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\obj\Debug\net6.0\BillApp.dll
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\obj\Debug\net6.0\refint\BillApp.dll
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\obj\Debug\net6.0\BillApp.pdb
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\obj\Debug\net6.0\BillApp.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Masaüstü\ACUNMEDYA\9.Hafta\BillApp\BillApp\obj\Debug\net6.0\ref\BillApp.dll
