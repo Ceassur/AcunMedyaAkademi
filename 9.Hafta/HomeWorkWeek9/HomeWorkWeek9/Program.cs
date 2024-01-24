@@ -9,4 +9,8 @@ namespace HomeWorkWeek9
             string istanbul = istanbul = istanbul.ToUpper(new CultureInfo("tr-TR", false));
         }
     }
+
+
+
+        #endregion
 }
